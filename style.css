@@ -1,0 +1,43 @@
+.recipes {
+    text-align: center;
+    font-size: 45px;
+}
+.display {
+    text-align: center;
+}
+.recipes.bc {
+    background-color: orange;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif
+}
+.recipes.noodles {
+    background-color: lightgreen;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif
+}
+.recipes.lemonade{
+    background-color: rgb(255, 255, 123);
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif
+}
+.bc {
+    background-color: orange;
+}
+#bcimg {
+    height: auto;
+    width: 400px;
+}
+.noodles {
+    background-color: lightgreen;
+}
+#noodlesimg {
+    height: 500px;
+    width: 400px
+}
+.lemonade {
+    background-color: rgb(255, 255, 123);
+}
+#lemonadeimg {
+    height: 400px;
+    width: 400px;
+}
